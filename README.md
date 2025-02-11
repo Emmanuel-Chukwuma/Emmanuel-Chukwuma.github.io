@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm **[Your Name]**, a passionate **[Your Role/Title, e.g., Data Engineer, Developer, etc.]**. This GitHub is where I share my projects, code experiments, and ideas. I love working on **[mention specific interests, e.g., data engineering, visualization, backend development, etc.]**. Feel free to explore and connect with me!
+As a passionate Data Analysis and Engineering student, I specialise in **transforming data into actionable insights and building robust data-driven solutions**. With a strong **data analysis, engineering, and visualisation foundation**, I am dedicated to solving complex problems and delivering high-quality results. Explore my projects to see how I’ve applied my **skills in real-world scenarios**, and feel free to connect if you’re looking for someone who can turn data into a strategic asset.
 
 ---
 
