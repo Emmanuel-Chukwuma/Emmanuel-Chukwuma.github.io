@@ -27,24 +27,23 @@ As a passionate Data Analysis and Engineering student, I specialise in **transfo
 
 ## 💻 Technologies I Work With
 - **Languages**: Python, SQL, JavaScript, etc.
-- **Tools**: AWS, Power BI, Tableau, etc.
+- **Tools**: AWS, Google Cloud, Power BI, Tableau, etc.
 - **Frameworks**: Flask, React, etc.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Chukwuma&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Chukwuma&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](www.linkedin.com/in/emmanuel-chukwuma-9b393b226)
+- [Personal Website]([https://yourwebsite.com](https://emmanuel-chukwuma.carrd.co/))
 
 ---
 
