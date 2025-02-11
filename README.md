@@ -4,6 +4,7 @@ As a passionate Data Analysis and Engineering student, I specialise in **transfo
 
 ---
 
+---
 
 ---
 
@@ -14,14 +15,13 @@ As a passionate Data Analysis and Engineering student, I specialise in **transfo
 - **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, Numpy etc
 
 
-### 🌐 [Project Name 2](link-to-repo-or-demo)
-- **Description**: [Brief description of the project]
-- **Tech Stack**: [e.g., JavaScript, React, Node.js, etc.]
-- **Highlights**:
-  - [Point 1]
-  - [Point 2]
+### 🌐 [Campaign-Response-Prediction-and-Revenue-Increase]([link-to-repo-or-demo](https://github.com/Emmanuel-Chukwuma/Campaign-Response-Prediction-and-Revenue-Increase/tree/main))
+- **Description**: In this project an online delivery service's customers are segmented and a model is built that correctly predicts users that will respond positively to their campaign messages, hence improving revenue.
 
-*(Add more projects as needed!)*
+By the end of this project, a model capable of predicting customers who will accept iFood’s campaigns, with an accuracy rate of 87%, will be developed. However, it is noticed that iFood has a low acceptance rate from its customers, which is potentially impacting its revenue. Two solutions (improve customer engagement and include family-friendly deals) will be recommended to increase acceptance rate and revenue.
+
+- **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, HTML, Numpy etc.]
+
 
 ---
 
