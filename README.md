@@ -4,23 +4,15 @@ As a passionate Data Analysis and Engineering student, I specialise in **transfo
 
 ---
 
-## 🌟 About Me
-
-- 🔭 I’m currently working on: **[Your Current Project]**
-- 🌱 I’m learning: **[Technologies or Skills you're currently learning]**
-- 📫 How to reach me: **[Your Contact Information, e.g., email, LinkedIn]**
-- ⚡ Fun fact: **[Something interesting about you]**
 
 ---
 
 ## 🚀 Projects Highlights
 
-### 📊 [Project Name 1](link-to-repo-or-demo)
-- **Description**: [Brief description of the project]
-- **Tech Stack**: [e.g., Python, Pandas, Matplotlib, etc.]
-- **Highlights**:
-  - [Point 1]
-  - [Point 2]
+### 📊 [Time Series Forecasting with XGBoost](https://github.com/Emmanuel-Chukwuma/time_series_prediction_for_energy_usage)
+- **Description**: This repository contains a comprehensive pipeline for time series forecasting hourly energy usage using the XGBoost machine learning model. The workflow covers data preprocessing, feature engineering, model training, and evaluation, making it suitable for predictive analytics.
+- **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, Numpy etc
+
 
 ### 🌐 [Project Name 2](link-to-repo-or-demo)
 - **Description**: [Brief description of the project]
