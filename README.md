@@ -31,6 +31,7 @@ As a passionate Data Analysis and Engineering student, I specialise in **transfo
 
 - **Tech Stack**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ---
+---
 
 ## 💻 Technologies I Work With
 - **Languages**: Python, SQL, JavaScript, etc.
