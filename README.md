@@ -29,7 +29,9 @@ As a passionate Data Analysis and Engineering student, I specialise in **transfo
 ### [NFL Predictive Analytics Project](https://github.com/Emmanuel-Chukwuma/NFL_touchdown_prediction)
 - **Description**: This project provides an in-depth analysis of NFL data, offering valuable insights into player performance, team statistics, and game outcomes. Using Python and popular data science libraries, this notebook aims to uncover patterns and trends within the NFL dataset.
 
-- **Tech Stack**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+-  **Tech Stack**: Python, Pandas, Matplotlib, Numpy, Seaborn, Scikit-learn
+
+
 ---
 ---
 
