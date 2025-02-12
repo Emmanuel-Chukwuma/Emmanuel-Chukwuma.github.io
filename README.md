@@ -31,6 +31,10 @@ As a passionate Data Analysis and Engineering student, I specialise in **transfo
 
 - **Tech Stack**: Python, Pandas, Matplotlib
 
+  ### # Adventure-Works-Report
+- **Description**: This project uses PowerBI to visualize the financial report of a company called Adventure Works on each of thhe continents they operate in.
+- **To check it out on PowerBI**: Note: A Power BI account is required to sign in. [click here](https://app.powerbi.com/reportEmbed?reportId=69ed797d-aee2-479a-98ad-eea0ded1d776&autoAuth=true&ctid=c986676f-9b39-4d08-b4f8-a668e0e8c6a5)
+
 ### [NFL Predictive Analytics Project](https://github.com/Emmanuel-Chukwuma/NFL_touchdown_prediction)
 - **Description**: This project provides an in-depth analysis of NFL data, offering valuable insights into player performance, team statistics, and game outcomes. Using Python and popular data science libraries, this notebook aims to uncover patterns and trends within the NFL dataset.
 
