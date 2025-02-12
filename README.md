@@ -21,20 +21,22 @@ As a passionate Data Analysis and Engineering student, I specialise in **transfo
 - **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, HTML, Numpy etc.]
 
 
+### 📊 [Customer Behavior Analysis](https://github.com/Emmanuel-Chukwuma/customer_behaviour_analysis)
+- **Description**: This dataset will be explored to examine customer behavior for churn analysis. Exploratory Data Analysis (EDA) of E-Commerce data will help us identify patterns and factors contributing to customer churn, which can help in developing strategies for customer retention and improving overall business performance.
+
+- **Tech Stack**: Python, Pandas, Matplotlib
+
+### [NFL Predictive Analytics Project](https://github.com/Emmanuel-Chukwuma/NFL_touchdown_prediction)
+- **Description**: This project provides an in-depth analysis of NFL data, offering valuable insights into player performance, team statistics, and game outcomes. Using Python and popular data science libraries, this notebook aims to uncover patterns and trends within the NFL dataset.
+
+- **Tech Stack**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ---
 
 ## 💻 Technologies I Work With
 - **Languages**: Python, SQL, JavaScript, etc.
 - **Tools**: AWS, Google Cloud, Power BI, Tableau, etc.
-- **Frameworks**: Flask, React, etc.
 
----
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Chukwuma&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Chukwuma&layout=compact&theme=radical)
 
 ---
 
